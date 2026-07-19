@@ -1,0 +1,28 @@
+Fonts below are licensed under the SIL Open Font License, Version 1.1
+(https://openfontlicense.org). Full license text applies; this file is an
+attribution index, not a substitute for it.
+
+Inter500/600/700.ttf
+  Inter - Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
+  Static weight instances extracted from the variable font (opsz=14) - permitted
+  under OFL section "used, studied, modified and redistributed freely".
+
+TikTokSans500/600/700.ttf
+  TikTok Sans - Copyright 2024 TikTok Inc. (https://github.com/tiktok/TikTokSans)
+  Static weight instances extracted from the variable font (opsz=12, wdth=100, slnt=0).
+
+Lato500/600/700.ttf
+  Lato - Copyright 2010-2014 tyPoland Lukasz Dziedzic (https://latofonts.com)
+  Unmodified static weights (Medium/SemiBold/Bold) from the official release.
+
+Poppins500/600/700.ttf
+  Poppins - Copyright 2020 The Poppins Project Authors
+  (https://github.com/itfoundry/Poppins)
+  Unmodified static weights (Medium/SemiBold/Bold) from the official release.
+
+Source for all four: the "ofl/" tree of https://github.com/google/fonts (also
+the canonical Google Fonts distribution), fetched July 2026.
+
+Used by endpoints/maker/fake-generate.js as each platform's real (or closest
+freely-licensed) 2026 UI typeface - see the comment block above PLATFORM_FONT
+in that file for which platform maps to which font and why.
