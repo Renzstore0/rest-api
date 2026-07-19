@@ -1,0 +1,13 @@
+node_modules/
+.env
+public/uploads/*
+!public/uploads/.gitkeep
+public/avatars/*
+!public/avatars/.gitkeep
+assets/fonts/auto/*
+!assets/fonts/auto/.gitkeep
+bin/
+*.log
+.DS_Store
+Thumbs.db
+coverage/
